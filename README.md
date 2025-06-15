@@ -4,7 +4,6 @@
 
 - ☯️ **운세 형식**: 60년 경력 사주 전문가 스타일
 - 🌈 **결과**: 긍정적이고 희망적인 메시지
-- 🔒 **CORS 설정**: GitHub Pages 연동 (https://mangodetective.github.io)
 - ⚙️ **환경변수 기반 보안 설정 (dotenv)**
 
 ## ⚠️ 주의사항
